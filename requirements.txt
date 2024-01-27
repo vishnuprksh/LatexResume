@@ -1,0 +1,3 @@
+pyqt5=5.15.10
+PyQtWebEngine=5.15.6
+pdflatex=0.1.3
